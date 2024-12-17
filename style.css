@@ -1,0 +1,16 @@
+body{
+    background-color: #191919;
+
+}
+
+p{
+    padding: 20px;
+}
+a{
+  
+    text-decoration: none;
+}
+
+a span{
+    color: red;
+}
